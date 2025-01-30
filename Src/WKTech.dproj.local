@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/01/29 14:46:58.000.346,=C:\Users\Silvio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/29 14:47:08.000.538,=C:\Users\Silvio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/01/29 15:15:31.000.697,C:\Users\Silvio\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\silvio-sbj\WKTech\Src\Providers\Providers.Connection.dfm</Transaction>
+    <Transaction>2025/01/29 15:15:31.000.697,C:\Users\Silvio\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\silvio-sbj\WKTech\Src\Providers\Providers.Connection.pas</Transaction>
+    <Transaction>2025/01/29 15:17:38.000.594,C:\Users\Silvio\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\silvio-sbj\WKTech\Src\Views\Views.PedidoVenda.pas</Transaction>
+    <Transaction>2025/01/29 15:17:38.000.594,C:\Users\Silvio\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\silvio-sbj\WKTech\Src\Views\Views.PedidoVenda.dfm</Transaction>
+    <Transaction>2025/01/29 15:18:18.000.757,C:\Users\Silvio\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\silvio-sbj\WKTech\Src\WKTech.dproj</Transaction>
+    <Transaction>2025/01/29 15:19:18.000.174,=C:\silvio-sbj\WKTech\Src\Unit1.pas</Transaction>
+    <Transaction>2025/01/29 15:20:05.000.744,C:\silvio-sbj\WKTech\Src\Unit1.pas=C:\silvio-sbj\WKTech\Src\Services\Service.PedidoVenda.pas</Transaction>
+    <Transaction>2025/01/29 15:20:05.000.744,C:\silvio-sbj\WKTech\Src\Unit1.dfm=C:\silvio-sbj\WKTech\Src\Services\Service.PedidoVenda.dfm</Transaction>
+    <Transaction>2025/01/29 15:20:31.000.584,C:\silvio-sbj\WKTech\Src\Services\Service.PedidoVenda.dfm=C:\silvio-sbj\WKTech\Src\Services\Services.PedidoVenda.dfm</Transaction>
+    <Transaction>2025/01/29 15:20:31.000.584,C:\silvio-sbj\WKTech\Src\Services\Service.PedidoVenda.pas=C:\silvio-sbj\WKTech\Src\Services\Services.PedidoVenda.pas</Transaction>
+    <Transaction>2025/01/29 19:28:24.000.741,=C:\silvio-sbj\WKTech\Src\Providers\Providers.Util.pas</Transaction>
+    <Transaction>2025/01/29 19:31:12.000.877,=C:\silvio-sbj\WKTech\Src\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
